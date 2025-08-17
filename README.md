@@ -1,4 +1,4 @@
-# weatherapp-powerd-by-midori
+# weatherapp-powered-by-midori
 pythonで作成したAI搭載天気アプリです。すべてのコードはgemini2.5proとgrok3により書かれました。
 
 どんなソフトであるか  
